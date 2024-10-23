@@ -10,7 +10,6 @@ double OutputAndFind(const int size, arr_type arr[]) {
 		std::cout << arr[i] << " ";
 		arithmetic_mean += arr[i];
 	}
-
 	arithmetic_mean /= size;
 
 	std::cout << "\n";
