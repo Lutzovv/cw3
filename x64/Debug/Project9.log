@@ -1,6 +1,6 @@
 ﻿  main.cpp
-E:\programming\cpp\Project9\Project9\main.cpp(24,23): warning C4305: инициализация: усечение из "double" в "float"
-E:\programming\cpp\Project9\Project9\main.cpp(24,28): warning C4305: инициализация: усечение из "double" в "float"
-E:\programming\cpp\Project9\Project9\main.cpp(24,33): warning C4305: инициализация: усечение из "double" в "float"
-E:\programming\cpp\Project9\Project9\main.cpp(24,43): warning C4305: инициализация: усечение из "double" в "float"
+E:\programming\cpp\Project9\Project9\main.cpp(26,23): warning C4305: инициализация: усечение из "double" в "float"
+E:\programming\cpp\Project9\Project9\main.cpp(26,28): warning C4305: инициализация: усечение из "double" в "float"
+E:\programming\cpp\Project9\Project9\main.cpp(26,33): warning C4305: инициализация: усечение из "double" в "float"
+E:\programming\cpp\Project9\Project9\main.cpp(26,43): warning C4305: инициализация: усечение из "double" в "float"
   Project9.vcxproj -> E:\programming\cpp\Project9\x64\Debug\Project9.exe
